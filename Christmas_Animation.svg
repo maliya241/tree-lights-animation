@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3600 3600" style="enable-background:new 0 0 3600 3600;" xml:space="preserve">
+<style type="text/css">	
+	<!-- .st1{fill:#7A7473;} -->
+	<!-- .st3{fill:#FFFFFF;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st4{fill:#1D991D;stroke:#6AB86A;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st5{fill:#6AB86A;stroke:#6AB86A;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st6{fill:#FF0000;stroke:#FF7070;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st7{fill:#FF0000;stroke:#FF7070;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	.st8{fill:none;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- lights string -->
+	.st9{fill:#C28C21;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- stump -->
+	.st10{fill:#6AB86A;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- tree leaves color -->
+	<!-- .st11{fill:#FF0000;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st12{fill:#FF7070;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st13{fill:#FF0000;stroke:#FFFFFF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st14{fill:none;stroke:#FFFFFF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st15{display:inline;} -->
+	<!-- .st16{fill:#FFFFFF;stroke:#A3EAFF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st17{fill:#FBB8FF;stroke:#A3EAFF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st18{fill:#FFFFFF;stroke:#FBB8FF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st19{fill:#FFFFFF;stroke:#E17DFF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st20{fill:#FFFFFF;stroke:#F2FF61;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st21{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st22{display:inline;opacity:0.749;} -->
+	<!-- .st23{fill:#FFFFFF;stroke:#A3EAFF;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st24{fill:#FBB8FF;stroke:#A3EAFF;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st25{fill:#FFFFFF;stroke:#FBB8FF;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st26{fill:#FFFFFF;stroke:#E17DFF;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st27{fill:#FFFFFF;stroke:#F2FF61;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	<!-- .st28{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} -->
+	
+	.st29{opacity:0.749;}
+	.st30{fill:#E9F9D5;stroke:#E9F9D5;stroke-width:37.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- green -->
+	.st31{fill:#F8DFFF;stroke:#F8DFFF;stroke-width:37.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- purple -->
+	.st32{fill:#FFFAC3;stroke:#FFFAC3;stroke-width:37.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- yellow -->
+	.st33{fill:#DBF3FF;stroke:#DBF3FF;stroke-width:37.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- blue -->
+	<!-- .st34{fill:#FEFAC3;stroke:#FEFAC3;stroke-width:37.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}  second yellow --> -->
+	.st35{fill:#E9F9D5;stroke:#E9F9D5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- green -->
+	.st36{fill:#F8DFFF;stroke:#F8DFFF;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- purple -->
+	.st37{fill:#FFFAC3;stroke:#FFFAC3;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- yellow -->
+	.st38{fill:#DBF3FF;stroke:#DBF3FF;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} <!-- blue -->
+	<!-- .st39{fill:#FEFAC3;stroke:#FEFAC3;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} second yellow -->
+	
+	@keyframes hideshow {
+	  0% { opacity: 0; }
+	  40% { opacity: 0.5; }
+	  45% { opacity: 1; }
+	  55% { opacity: 1; }
+	  60% { opacity: 0.5}
+	  100% { opacity: 0; }
+	} 
+	
+	@keyframes hideshow50 {
+	  0% { opacity: 0.5; }
+	  40% { opacity: 0.75; }
+	  45% { opacity: 1; }
+	  55% { opacity: 1; }
+	  60% { opacity: 0.75}
+	  100% { opacity: 0.5; }
+	} 
+	
+	.st30, .st31, .st32, .st33 {
+		opacity: 0;
+		animation-name: hideshow;
+		animation-duration: 12s;
+		animation-timing-funtion: ease-in-out;
+		animation-iteration-count: infinite;
+	}
+	
+	.st35, .st36, .st37, .st38 {
+		opacity: 0.5;
+		animation-name: hideshow50;
+		animation-duration: 12s;
+		animation-timing-funtion: ease-in-out;
+		animation-iteration-count: infinite;
+	}
+	
+	.st30, .st35 {
+		animation-delay: 9s;
+	}
+	
+	.st31, .st36 {
+		animation-delay: 6s;
+	}
+	
+	.st32, .st37 {
+		animation-delay: 3s;
+	}
+	
+	.st33, .st38 {
+		animation-delay: 0s;
+	}
+</style>
+<g id="Tree">
+	<g id="Tree_1_">
+		<path id="Stump" class="st9" d="M1761.97,2460.39c-10.73,134.27-32.89,478.95-42.08,623.44c-2.28,35.89,18.62,67.24,46.44,69.65
+			l150.47,1.47c36.99,3.21,56.35-23.91,56.69-71.8c1.08-149.22,3.33-452.05,5.05-625.15L1761.97,2460.39z"/>
+		<path class="st10" d="M2923.18,2493.81c0,14.18-1.66,27.98-4.79,41.22c-5.42,22.91-15.28,44.17-28.63,62.86
+			c-33.65,47.12-89.54,77.95-152.78,77.95c-63.24,0-119.13-30.83-152.78-77.95c-1.4-1.96-2.77-3.95-4.09-5.97
+			c-0.7,2.01-1.45,4-2.26,5.97c-18.58,45.67-64.21,77.95-117.54,77.95c-35.96,0-68.4-14.67-91.44-38.21
+			c-16.67,23.11-44.21,38.21-75.35,38.21c-38.96,0-72.28-23.62-85.76-57.03c-21.9,86.39-101.74,150.42-196.88,150.42
+			c-81.51,0-151.79-47-184.03-114.79c-9.82,3.84-20.49,5.95-31.65,5.95c-39.44,0-72.8-26.27-84.04-62.49
+			c-0.67-2.14-4.52,19.74-7.55,28.86c-9.76,29.37-34.35,55.9-65.93,55.9s-64.18-24-71.98-53.93c-2.9-11.13-5.54-30.83-5.54-30.83
+			c0.97,7.04,1.47,14.22,1.47,21.51c0,89.36-74.09,161.79-165.49,161.79s-165.49-72.42-165.49-161.79c0-7.29,0.5-14.47,1.45-21.51
+			h-7.16c-0.01,0.03-0.01,0.07-0.03,0.09c-32.6,120.1-144.56,208.61-277.68,208.61c-133.15,0-245.13-88.56-277.69-208.71
+			c-6.24-23.02-9.57-47.18-9.57-72.12c0-12.6,0.85-25,2.5-37.17c6.44-47.66,25.11-91.54,52.82-128.55
+			c16.92-22.6,440.76-447.89,440.76-447.89h1389.98c137.95,149.94,259.79,315.33,359.87,492.51c8.45,14.98,12.35,31.36,12.46,47.91
+			v0.03C2921.53,2465.84,2923.18,2479.63,2923.18,2493.81z"/>
+		<path class="st10" d="M2662.75,1878.79v0.05c0,0.49-0.01,0.99-0.04,1.47c-0.07,2.51-0.27,5.04-0.59,7.55c0,0.01,0.01,0.01,0,0.03
+			c-0.32,2.55-0.77,5.09-1.33,7.62c-0.01,0.04-0.01,0.07-0.03,0.11c-5.62,20.7-22.44,36.96-43.74,42.18l-0.01,0.01
+			c-4.72,1.16-9.67,1.78-14.77,1.78c-29.17,0-53.54-20.18-59.27-47.04c-0.42,0.05-0.82,0.09-1.24,0.12
+			c0.01,0.38,0.03,0.78,0.03,1.16c-0.04,0.92-0.07,1.84-0.07,2.78c0,0.93,0.03,1.85,0.07,2.78c-0.39,23.2-5.66,45.23-14.88,65.15
+			c-26.49,57.31-85.48,97.19-153.99,97.19c-62.33,0-116.77-33-146.04-82.12c-11.32-19.01-18.88-40.41-21.66-63.24
+			c-0.15,0.01-0.31,0.03-0.46,0.03c0.01,0.2,0.01,0.41,0.01,0.6c0,27.77-14.54,52.21-36.6,66.45c-12.85,8.3-28.24,13.13-44.8,13.13
+			c-12.69,0-24.7-2.84-35.4-7.91h-0.01c-25.93-12.26-44.18-37.57-45.87-67.2c-0.26,0-0.51,0.01-0.77,0.01
+			c-2.02,25.43-8.81,49.54-19.51,71.48c-33.49,68.79-105.27,116.36-188.39,116.36c-73.29,0-137.75-36.96-174.92-92.85h-0.01
+			c-11.01-16.53-19.63-34.74-25.38-54.13c-9.61,23.53-25.73,43.81-46.18,58.74c-23.22,16.94-52.02,26.96-83.22,26.96
+			c-24.64,0-47.76-6.25-67.84-17.23c-14.3-7.8-27.04-18.01-37.66-30.04c-5.05,11.88-11.29,23.15-18.55,33.67
+			c-35.21,50.84-94.75,84.26-162.28,84.26c-108.11,0-195.76-85.68-195.76-191.38c0-3.08,0.08-6.14,0.23-9.19
+			c-1.12-19.59,1.87-39.43,8.72-57.86c5.84-15.73,14.5-30.41,25.83-43.01c1.66-1.84,3.32-3.7,4.98-5.54
+			c6.24-6.93,12.47-13.88,18.72-20.81c115.1-128.01,230.21-256.03,345.3-384.04c0.74,0.61,1.33,1.39,1.68,2.31
+			c0.54,1.38,1.1,2.76,1.68,4.13c20.98,49.67,71,84.62,129.38,84.62c54.63,0,101.95-30.61,124.98-75.24
+			c2.37-4.6,14.77-4.88,15.67,1.93c5.56,41.82,42.11,74.11,86.39,74.11c45.38,0,82.65-33.92,86.74-77.24
+			c0.12-1.28,0.22-2.58,0.28-3.88c0.81,1.34,1.68,2.64,2.6,3.91c10.86,15,28.66,24.78,48.8,24.78c19.7,0,37.19-9.37,48.1-23.83
+			c1.35-1.78,2.58-3.63,3.71-5.55c2.42-4.1,8.75-3.45,10.28,1.05c0.52,1.58,1.1,3.13,1.71,4.66c14.45,36.5,50.72,62.39,93.17,62.39
+			c41.74,0,77.5-25.02,92.43-60.56c1.32-3.13,2.48-6.35,3.46-9.64c1.28-4.24,6.92-5.39,9.79-2c3.63,4.27,7.6,8.25,11.88,11.89
+			c18.62,15.92,42.99,25.54,69.65,25.54c11.03,0,21.66-1.64,31.66-4.71c128.34,120.38,245.83,251.82,350.56,392.36
+			C2659.01,1849.98,2662.96,1864.28,2662.75,1878.79z"/>
+		<path class="st10" d="M2373.72,1347.36v0.01c0.01,0.07,0.01,0.12,0,0.17c-0.03,4.17-0.31,8.27-0.83,12.3
+			c-0.07,0.46-0.13,0.93-0.2,1.39c-5.76,39.92-34.79,72.54-73.25,84.29c-10,3.06-20.63,4.71-31.66,4.71
+			c-26.67,0-51.03-9.63-69.65-25.54c-4.28-3.64-8.25-7.62-11.88-11.89c-2.88-3.39-8.52-2.24-9.79,2c-0.98,3.29-2.14,6.51-3.46,9.64
+			c-14.93,35.54-50.7,60.56-92.43,60.56c-42.45,0-78.72-25.89-93.17-62.39c-0.61-1.53-1.18-3.08-1.71-4.66
+			c-1.53-4.5-7.86-5.16-10.28-1.05c-1.13,1.92-2.37,3.78-3.71,5.55c-10.91,14.47-28.4,23.83-48.1,23.83
+			c-20.14,0-37.94-9.79-48.8-24.78c-0.91-1.26-1.79-2.56-2.6-3.91c-0.07,1.3-0.16,2.6-0.28,3.88
+			c-4.09,43.31-41.36,77.24-86.74,77.24c-44.28,0-80.84-32.29-86.39-74.11c-0.9-6.81-13.31-6.54-15.67-1.93
+			c-23.03,44.63-70.35,75.24-124.98,75.24c-58.38,0-108.4-34.95-129.38-84.62c-0.58-1.37-1.14-2.75-1.68-4.13
+			c-0.35-0.92-0.94-1.71-1.68-2.31c-1.08-0.87-2.49-1.34-3.97-1.28c-1.06,0.05-2.14,0.08-3.22,0.08c-10.45,0-20.32-2.46-29.04-6.81
+			c-0.01,0-0.04-0.01-0.07-0.03c-18.98-9.51-32.47-28.03-34.52-49.79c-0.19-1.93-0.28-3.88-0.28-5.85
+			c0-13.09,4.13-25.27,11.18-35.32c0.13-0.2,0.28-0.38,0.44-0.55c2.92-3.29,5.84-6.59,8.76-9.88
+			c64.06-72.21,128.11-144.41,192.17-216.64c1.79-2.01,4.79-2.51,7.14-1.17c19.67,11.22,42.54,17.64,66.95,17.64
+			c46.94,0,88.21-23.74,111.93-59.6c2.33-3.53,7.56-3.39,9.75,0.21c12.11,19.91,34.32,33.27,59.71,33.32c0.11,0,0.22,0,0.32,0.01
+			c34.08,3.04,57.9-27.67,68.93-45.95c2.49-4.13,8.8-3.38,10.31,1.18c13.44,40.84,56.75,70.82,102.54,70.82
+			c40.74,0,75.87-23.53,91.92-57.45c0-0.01,0.01-0.03,0.01-0.04c1.12-2.32,3.66-3.6,6.23-3.13c3.66,0.68,7.37,1.1,11.09,1.29
+			c1.32,0.07,2.58,0.55,3.58,1.41c70.03,60.93,135.99,126.37,197.24,195.76c14.02,15.88,28.09,32.62,39.02,50.68
+			c0.01,0,0.01,0.01,0.01,0.03c10.14,16.73,17.56,34.59,19.74,53.93C2373.55,1342.26,2373.71,1344.81,2373.72,1347.36z"/>
+		<path class="st10" d="M2163.95,1022.89c-10.86,8.59-24.18,13.42-37.98,14.77c-3.4,0.33-6.82,0.45-10.25,0.34
+			c-4.4-0.11-8.8-0.57-13.13-1.36c-2.57-0.47-5.12,0.8-6.23,3.13c-0.01,0.01-0.01,0.03-0.02,0.04
+			c-16.05,33.92-51.18,57.45-91.92,57.45c-45.82,0-89.16-30.02-102.57-70.91c-1.49-4.54-7.76-5.28-10.23-1.17
+			c-11.01,18.25-34.85,49.06-68.98,46.02c-0.1-0.01-0.21-0.01-0.31-0.01c-25.43-0.05-47.67-13.44-59.77-33.4
+			c-2.17-3.58-7.35-3.7-9.66-0.21c-23.71,35.9-65,59.67-111.98,59.67c-26.08,0-50.4-7.33-70.95-20.01
+			c-37.4-23.05-62.25-63.79-62.25-110.21c0-0.41,0-0.83,0.01-1.24c0.01-1.74,0.06-3.48,0.15-5.2c0.04-0.31,0.08-0.62,0.12-0.93
+			c-1.26-35.07,68.96-112.27,320.99-314.38c29.94-24.01,70.35-29.5,96.05-1.18l247.82,273.15
+			C2199.69,946.8,2195.36,998.04,2163.95,1022.89z"/>
+	</g>
+</g>
+<g id="Lights_2">
+	<g id="Light_String">
+		<path class="st8" d="M1691.06,744.04c132.64,70,285.14,103.58,435.7,94.68"/>
+		<path class="st8" d="M1566.35,849.07c174.9,112.1,404.53,181.96,613.66,184.22"/>
+		<path class="st8" d="M1533.67,1083.23c224.25,121.35,486.73,130.88,735.88,72.09"/>
+		<path class="st8" d="M1461.73,1173.91c271.66,165.16,615.43,227.51,932.88,188.78"/>
+		<path class="st8" d="M1351.47,1295.39c279.9,185.12,670.53,248.68,1001.31,181.08"/>
+		<path class="st8" d="M1326.96,1494.9c349.89,104.68,796.99,142.75,1161.61,112.79"/>
+		<path class="st8" d="M1216.07,1621.38c421.62,192.84,936.46,234.12,1390.9,135.59"/>
+		<path class="st8" d="M1066.29,1787.02c513.68,276.71,1108.68,407.14,1694.04,371.35"/>
+		<path class="st8" d="M978.04,2072.98c593.26,309.13,1291.98,447.44,1961.96,393.36"/>
+		<path class="st8" d="M854.01,2194.09c492.87,308.87,1101.88,486.05,1687.17,473.04"/>
+		<path class="st8" d="M705.62,2347.71c208.51,200.01,532.12,358.42,821.55,397.12"/>
+	</g>
+	<g id="On_Ho_ho_ho" class="st29">
+		<g id="O_7_">
+			<g id="Dash_70_">
+				<ellipse class="st30" cx="1012.31" cy="2604.16" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1056.68" cy="2623.17" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1101.04" cy="2642.18" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_69_">
+				<ellipse class="st30" cx="1180.17" cy="2676.74" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1225.56" cy="2693.26" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1270.95" cy="2709.79" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_68_">
+				<ellipse class="st30" cx="1357.58" cy="2736.42" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1405.2" cy="2745.09" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1452.82" cy="2753.76" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_13_">
+			<ellipse id="Dot_120_" class="st31" cx="727.85" cy="2337.07" rx="25" ry="25"/>
+			<ellipse id="Dot_119_" class="st31" cx="790.36" cy="2389.74" rx="25" ry="25"/>
+			<ellipse id="Dot_118_" class="st31" cx="865.44" cy="2439.65" rx="25" ry="25"/>
+			<ellipse id="Dot_117_" class="st31" cx="943.51" cy="2493.98" rx="25" ry="25"/>
+		</g>
+		<g id="O_6_">
+			<g id="Dash_67_">
+				<ellipse class="st32" cx="2072.86" cy="2669.71" rx="25" ry="25"/>
+				<ellipse class="st32" cx="2120.77" cy="2676.68" rx="25" ry="25"/>
+				<ellipse class="st32" cx="2168.68" cy="2683.65" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_66_">
+				<ellipse class="st32" cx="2255.18" cy="2688.59" rx="25" ry="25"/>
+				<ellipse class="st32" cx="2303.54" cy="2691.29" rx="25" ry="25"/>
+				<ellipse class="st32" cx="2351.9" cy="2694" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_65_">
+				<ellipse class="st32" cx="2434.68" cy="2692.79" rx="25" ry="25"/>
+				<ellipse class="st32" cx="2483.1" cy="2691.3" rx="25" ry="25"/>
+				<ellipse class="st32" cx="2531.51" cy="2689.82" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_12_">
+			<ellipse id="Dot_116_" class="st33" cx="1741.31" cy="2547.02" rx="25" ry="25"/>
+			<ellipse id="Dot_115_" class="st33" cx="1826.01" cy="2563.75" rx="25" ry="25"/>
+			<ellipse id="Dot_114_" class="st33" cx="1914.25" cy="2584.68" rx="25" ry="25"/>
+			<ellipse id="Dot_113_" class="st33" cx="2011.32" cy="2601.63" rx="25" ry="25"/>
+		</g>
+		<g id="O_5_">
+			<g id="Dash_64_">
+				<ellipse class="st30" cx="1212.13" cy="2418.25" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1255.8" cy="2438.72" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1299.48" cy="2459.19" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_63_">
+				<ellipse class="st30" cx="1380.64" cy="2488.86" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1426.04" cy="2505.39" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1471.43" cy="2521.91" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_62_">
+				<ellipse class="st30" cx="1550.89" cy="2544.63" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1597.6" cy="2557.17" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1644.31" cy="2569.71" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_11_">
+			<ellipse id="Dot_112_" class="st31" cx="921.76" cy="2201.32" rx="25" ry="25"/>
+			<ellipse id="Dot_111_" class="st31" cx="997.45" cy="2242.1" rx="25" ry="25"/>
+			<ellipse id="Dot_110_" class="st31" cx="1075.21" cy="2287.9" rx="25" ry="25"/>
+			<ellipse id="Dot_109_" class="st31" cx="1162.63" cy="2332.51" rx="25" ry="25"/>
+		</g>
+	</g>
+	<g id="On_Frohe_Weihnachten" class="st29">
+		<g id="N_3_">
+			<ellipse id="Dot_108_" class="st32" cx="2934.79" cy="2488.49" rx="25" ry="25"/>
+			<g id="Dash_61_">
+				<ellipse class="st32" cx="2731.16" cy="2500.23" rx="25" ry="25"/>
+				<ellipse class="st32" cx="2779.57" cy="2498.63" rx="25" ry="25"/>
+				<ellipse class="st32" cx="2827.98" cy="2497.03" rx="25" ry="25"/>
+			</g>
+		</g>
+		<ellipse id="E_7_" class="st33" cx="2653.46" cy="2447.58" rx="25" ry="25"/>
+		<g id="T_3_">
+			<ellipse class="st30" cx="2452.65" cy="2505.32" rx="25" ry="25"/>
+			<ellipse class="st30" cx="2501.09" cy="2505.32" rx="25" ry="25"/>
+			<ellipse class="st30" cx="2549.52" cy="2505.32" rx="25" ry="25"/>
+		</g>
+		<g id="H_10_">
+			<ellipse id="Dot_107_" class="st31" cx="2135.94" cy="2415.87" rx="25" ry="25"/>
+			<ellipse id="Dot_106_" class="st31" cx="2207.78" cy="2427.68" rx="25" ry="25"/>
+			<ellipse id="Dot_105_" class="st31" cx="2285.31" cy="2432.77" rx="25" ry="25"/>
+			<ellipse id="Dot_104_" class="st31" cx="2375.1" cy="2437.87" rx="25" ry="25"/>
+		</g>
+		<g id="C_3_">
+			<ellipse id="Dot_103_" class="st32" cx="1693.15" cy="2379.64" rx="25" ry="25"/>
+			<g id="Dash_60_">
+				<ellipse class="st32" cx="1499.51" cy="2324.94" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1545.37" cy="2340.16" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1591.24" cy="2355.38" rx="25" ry="25"/>
+			</g>
+			<ellipse id="Dot_102_" class="st32" cx="2003.89" cy="2447.46" rx="25" ry="25"/>
+			<g id="Dash_59_">
+				<ellipse class="st32" cx="1803.65" cy="2406.28" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1851.03" cy="2416.1" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1898.41" cy="2425.92" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="A_3_">
+			<ellipse id="Dot_101_" class="st33" cx="1266.39" cy="2174.41" rx="25" ry="25"/>
+			<g id="Dash_58_">
+				<ellipse class="st33" cx="1453.48" cy="2247.76" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1407.75" cy="2232.17" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1362.01" cy="2216.58" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="N_2_">
+			<ellipse id="Dot_100_" class="st30" cx="1150.76" cy="2181.42" rx="25" ry="25"/>
+			<g id="Dash_57_">
+				<ellipse class="st30" cx="965.54" cy="2103.67" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1009.12" cy="2124.33" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1052.7" cy="2144.99" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_9_">
+			<ellipse id="Dot_99_" class="st31" cx="2470.36" cy="2131.71" rx="25" ry="25"/>
+			<ellipse id="Dot_98_" class="st31" cx="2556.72" cy="2134.78" rx="25" ry="25"/>
+			<ellipse id="Dot_97_" class="st31" cx="2647.13" cy="2135.85" rx="25" ry="25"/>
+			<ellipse id="Dot_96_" class="st31" cx="2744.59" cy="2131.96" rx="25" ry="25"/>
+		</g>
+		<g id="I_3_">
+			<ellipse id="Dot_95_" class="st32" cx="2235.03" cy="2171.22" rx="25" ry="25"/>
+			<ellipse id="Dot_94_" class="st32" cx="2325.17" cy="2181.42" rx="25" ry="25"/>
+		</g>
+		<ellipse id="E_6_" class="st33" cx="2115.28" cy="2100.82" rx="25" ry="25"/>
+		<g id="W_1_">
+			<ellipse id="Dot_93_" class="st30" cx="1574.41" cy="2035.74" rx="25" ry="25"/>
+			<g id="Dash_56_">
+				<ellipse class="st30" cx="1670.61" cy="2060.76" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1717.84" cy="2071.26" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1765.07" cy="2081.75" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_55_">
+				<ellipse class="st30" cx="1867.05" cy="2108.39" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1914.28" cy="2118.89" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1961.51" cy="2129.39" rx="25" ry="25"/>
+			</g>
+		</g>
+		<ellipse id="E_5_" class="st31" cx="1458.7" cy="1937.09" rx="25" ry="25"/>
+		<g id="H_8_">
+			<ellipse id="Dot_92_" class="st32" cx="1085.5" cy="1822.33" rx="25" ry="25"/>
+			<ellipse id="Dot_91_" class="st32" cx="1161.18" cy="1863.1" rx="25" ry="25"/>
+			<ellipse id="Dot_90_" class="st32" cx="1241.41" cy="1903.88" rx="25" ry="25"/>
+			<ellipse id="Dot_89_" class="st32" cx="1330.21" cy="1943.34" rx="25" ry="25"/>
+		</g>
+		<g id="O_4_">
+			<g id="Dash_54_">
+				<ellipse class="st33" cx="2097.79" cy="1783.69" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2146.23" cy="1783.69" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2194.66" cy="1783.69" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_53_">
+				<ellipse class="st33" cx="2280.97" cy="1776.13" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2329.21" cy="1771.85" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2377.45" cy="1767.56" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_52_">
+				<ellipse class="st33" cx="2459.15" cy="1754.46" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2506.81" cy="1746.02" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2554.47" cy="1737.59" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="R_7_">
+			<ellipse id="Dot_88_" class="st30" cx="1687.43" cy="1795.03" rx="25" ry="25"/>
+			<ellipse id="Dot_87_" class="st30" cx="1959.21" cy="1824.66" rx="25" ry="25"/>
+			<g id="Dash_51_">
+				<ellipse class="st30" cx="1774.61" cy="1805.23" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1822.81" cy="1809.88" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1871.01" cy="1814.52" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="F_1_">
+			<ellipse id="Dot_86_" class="st31" cx="1258.22" cy="1610.73" rx="25" ry="25"/>
+			<ellipse id="Dot_85_" class="st31" cx="1336.26" cy="1643.47" rx="25" ry="25"/>
+			<ellipse id="Dot_84_" class="st31" cx="1597.51" cy="1719.79" rx="25" ry="25"/>
+			<g id="Dash_50_">
+				<ellipse class="st31" cx="1419.93" cy="1670.84" rx="25" ry="25"/>
+				<ellipse class="st31" cx="1466.3" cy="1684.54" rx="25" ry="25"/>
+				<ellipse class="st31" cx="1512.66" cy="1698.25" rx="25" ry="25"/>
+			</g>
+		</g>
+	</g>
+	<g id="On_Merry_Christmas" class="st29">
+		<g id="S_3_">
+			<ellipse id="Dot_83_" class="st32" cx="2459.04" cy="1634.49" rx="25" ry="25"/>
+			<ellipse id="Dot_82_" class="st32" cx="2291.53" cy="1642.92" rx="25" ry="25"/>
+			<ellipse id="Dot_81_" class="st32" cx="2370.91" cy="1642.92" rx="25" ry="25"/>
+		</g>
+		<g id="A_2_">
+			<ellipse id="Dot_80_" class="st33" cx="2014.37" cy="1587.21" rx="25" ry="25"/>
+			<g id="Dash_49_">
+				<ellipse class="st33" cx="2109.9" cy="1592.3" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2158.34" cy="1592.3" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2206.77" cy="1592.3" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="M_3_">
+			<g id="Dash_48_">
+				<ellipse class="st30" cx="1619.54" cy="1584.24" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1667.24" cy="1592.47" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1714.94" cy="1600.69" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_47_">
+				<ellipse class="st30" cx="1807.7" cy="1617.44" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1855.89" cy="1622.23" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1904.08" cy="1627.02" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="T_2_">
+			<ellipse class="st31" cx="1386.42" cy="1478.94" rx="25" ry="25"/>
+			<ellipse class="st31" cx="1433.44" cy="1490.31" rx="25" ry="25"/>
+			<ellipse class="st31" cx="1480.46" cy="1501.69" rx="25" ry="25"/>
+		</g>
+		<g id="S_2_">
+			<ellipse id="Dot_79_" class="st32" cx="2274.71" cy="1511.85" rx="25" ry="25"/>
+			<ellipse id="Dot_78_" class="st32" cx="2087.62" cy="1524.12" rx="25" ry="25"/>
+			<ellipse id="Dot_77_" class="st32" cx="2175.82" cy="1523.57" rx="25" ry="25"/>
+		</g>
+		<g id="I_2_">
+			<ellipse id="Dot_76_" class="st33" cx="1827.89" cy="1454.03" rx="25" ry="25"/>
+			<ellipse id="Dot_75_" class="st33" cx="1925.66" cy="1468.71" rx="25" ry="25"/>
+		</g>
+		<g id="R_6_">
+			<ellipse id="Dot_74_" class="st30" cx="1403.24" cy="1356.42" rx="25" ry="25"/>
+			<ellipse id="Dot_73_" class="st30" cx="1659.62" cy="1468.17" rx="25" ry="25"/>
+			<g id="Dash_46_">
+				<ellipse class="st30" cx="1488.23" cy="1396.5" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1532.58" cy="1415.53" rx="25" ry="25"/>
+				<ellipse class="st30" cx="1576.93" cy="1434.57" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_7_">
+			<ellipse id="Dot_72_" class="st31" cx="2155.6" cy="1344.59" rx="25" ry="25"/>
+			<ellipse id="Dot_71_" class="st31" cx="2247.09" cy="1344.59" rx="25" ry="25"/>
+			<ellipse id="Dot_70_" class="st31" cx="2338.58" cy="1339.5" rx="25" ry="25"/>
+			<ellipse id="Dot_69_" class="st31" cx="2059.34" cy="1339.5" rx="25" ry="25"/>
+		</g>
+		<g id="C_2_">
+			<ellipse id="Dot_68_" class="st32" cx="1631.88" cy="1291.19" rx="25" ry="25"/>
+			<g id="Dash_45_">
+				<ellipse class="st32" cx="1465.46" cy="1216.19" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1508.82" cy="1237.3" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1552.17" cy="1258.4" rx="25" ry="25"/>
+			</g>
+			<ellipse id="Dot_67_" class="st32" cx="1631.88" cy="1291.19" rx="25" ry="25"/>
+			<g id="Dash_44_">
+				<ellipse class="st32" cx="1465.46" cy="1216.19" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1508.82" cy="1237.3" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1552.17" cy="1258.4" rx="25" ry="25"/>
+			</g>
+			<ellipse id="Dot_66_" class="st32" cx="1892.29" cy="1369.51" rx="25" ry="25"/>
+			<g id="Dash_43_">
+				<ellipse class="st32" cx="1705.27" cy="1321.29" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1751.74" cy="1334.63" rx="25" ry="25"/>
+				<ellipse class="st32" cx="1798.22" cy="1347.97" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="Y_1_">
+			<ellipse id="Dot_65_" class="st33" cx="1786.38" cy="1145.39" rx="25" ry="25"/>
+			<g id="Dash_42_">
+				<ellipse class="st33" cx="2058.38" cy="1157.12" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2106.34" cy="1150.48" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2154.3" cy="1143.85" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_41_">
+				<ellipse class="st33" cx="1873.1" cy="1155.58" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1921.42" cy="1158.83" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1969.74" cy="1162.08" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_40_">
+				<ellipse class="st33" cx="1608.59" cy="1085.27" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1653.73" cy="1102.42" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1698.88" cy="1119.57" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="R_5_">
+			<ellipse id="Dot_64_" class="st30" cx="1931.33" cy="1026.64" rx="25" ry="25"/>
+			<ellipse id="Dot_63_" class="st30" cx="2163.92" cy="1058.63" rx="25" ry="25"/>
+			<g id="Dash_39_">
+				<ellipse class="st30" cx="1999.57" cy="1038.61" rx="25" ry="25"/>
+				<ellipse class="st30" cx="2047.52" cy="1045.35" rx="25" ry="25"/>
+				<ellipse class="st30" cx="2095.46" cy="1052.09" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="R_4_">
+			<ellipse id="Dot_62_" class="st31" cx="1663.49" cy="873.93" rx="25" ry="25"/>
+			<ellipse id="Dot_61_" class="st31" cx="1882.8" cy="956.16" rx="25" ry="25"/>
+			<g id="Dash_38_">
+				<ellipse class="st31" cx="1727.25" cy="900.57" rx="25" ry="25"/>
+				<ellipse class="st31" cx="1772.42" cy="917.67" rx="25" ry="25"/>
+				<ellipse class="st31" cx="1817.59" cy="934.76" rx="25" ry="25"/>
+			</g>
+		</g>
+		<ellipse id="E_4_" class="st32" cx="1567.68" cy="863.74" rx="25" ry="25"/>
+		<g id="M_2_">
+			<g id="Dash_37_">
+				<ellipse class="st33" cx="1769.51" cy="754.06" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1815.81" cy="767.96" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1862.11" cy="781.86" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_36_">
+				<ellipse class="st33" cx="1934.54" cy="797.8" rx="25" ry="25"/>
+				<ellipse class="st33" cx="1982.65" cy="803.36" rx="25" ry="25"/>
+				<ellipse class="st33" cx="2030.75" cy="808.92" rx="25" ry="25"/>
+			</g>
+		</g>
+	</g>
+	<g id="Ho_ho_ho">
+		<g id="O_3_">
+			<g id="Dash_35_">
+				<ellipse class="st35" cx="1012.31" cy="2604.16" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1056.68" cy="2623.17" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1101.04" cy="2642.18" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_34_">
+				<ellipse class="st35" cx="1180.17" cy="2676.74" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1225.56" cy="2693.26" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1270.95" cy="2709.79" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_33_">
+				<ellipse class="st35" cx="1357.58" cy="2736.42" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1405.2" cy="2745.09" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1452.82" cy="2753.76" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_6_">
+			<ellipse id="Dot_60_" class="st36" cx="727.85" cy="2337.07" rx="25" ry="25"/>
+			<ellipse id="Dot_59_" class="st36" cx="790.36" cy="2389.74" rx="25" ry="25"/>
+			<ellipse id="Dot_58_" class="st36" cx="865.44" cy="2439.65" rx="25" ry="25"/>
+			<ellipse id="Dot_57_" class="st36" cx="943.51" cy="2493.98" rx="25" ry="25"/>
+		</g>
+		<g id="O_2_">
+			<g id="Dash_32_">
+				<ellipse class="st37" cx="2072.86" cy="2669.71" rx="25" ry="25"/>
+				<ellipse class="st37" cx="2120.77" cy="2676.68" rx="25" ry="25"/>
+				<ellipse class="st37" cx="2168.68" cy="2683.65" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_31_">
+				<ellipse class="st37" cx="2255.18" cy="2688.59" rx="25" ry="25"/>
+				<ellipse class="st37" cx="2303.54" cy="2691.29" rx="25" ry="25"/>
+				<ellipse class="st37" cx="2351.9" cy="2694" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_30_">
+				<ellipse class="st37" cx="2434.68" cy="2692.79" rx="25" ry="25"/>
+				<ellipse class="st37" cx="2483.1" cy="2691.3" rx="25" ry="25"/>
+				<ellipse class="st37" cx="2531.51" cy="2689.82" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_5_">
+			<ellipse id="Dot_56_" class="st38" cx="1741.31" cy="2547.02" rx="25" ry="25"/>
+			<ellipse id="Dot_55_" class="st38" cx="1826.01" cy="2563.75" rx="25" ry="25"/>
+			<ellipse id="Dot_54_" class="st38" cx="1914.25" cy="2584.68" rx="25" ry="25"/>
+			<ellipse id="Dot_53_" class="st38" cx="2011.32" cy="2601.63" rx="25" ry="25"/>
+		</g>
+		<g id="O_1_">
+			<g id="Dash_29_">
+				<ellipse class="st35" cx="1212.13" cy="2418.25" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1255.8" cy="2438.72" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1299.48" cy="2459.19" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_28_">
+				<ellipse class="st35" cx="1380.64" cy="2488.86" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1426.04" cy="2505.39" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1471.43" cy="2521.91" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_26_">
+				<ellipse class="st35" cx="1550.89" cy="2544.63" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1597.6" cy="2557.17" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1644.31" cy="2569.71" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_4_">
+			<ellipse id="Dot_52_" class="st36" cx="921.76" cy="2201.32" rx="25" ry="25"/>
+			<ellipse id="Dot_51_" class="st36" cx="997.45" cy="2242.1" rx="25" ry="25"/>
+			<ellipse id="Dot_50_" class="st36" cx="1075.21" cy="2287.9" rx="25" ry="25"/>
+			<ellipse id="Dot_49_" class="st36" cx="1162.63" cy="2332.51" rx="25" ry="25"/>
+		</g>
+	</g>
+	<g id="Frohe_Weihnachten">
+		<g id="N_1_">
+			<ellipse id="Dot_48_" class="st37" cx="2934.79" cy="2488.49" rx="25" ry="25"/>
+			<g id="Dash_27_">
+				<ellipse class="st37" cx="2731.16" cy="2500.23" rx="25" ry="25"/>
+				<ellipse class="st37" cx="2779.57" cy="2498.63" rx="25" ry="25"/>
+				<ellipse class="st37" cx="2827.98" cy="2497.03" rx="25" ry="25"/>
+			</g>
+		</g>
+		<ellipse id="E_3_" class="st38" cx="2653.46" cy="2447.58" rx="25" ry="25"/>
+		<g id="T_1_">
+			<ellipse class="st35" cx="2452.65" cy="2505.32" rx="25" ry="25"/>
+			<ellipse class="st35" cx="2501.09" cy="2505.32" rx="25" ry="25"/>
+			<ellipse class="st35" cx="2549.52" cy="2505.32" rx="25" ry="25"/>
+		</g>
+		<g id="H_3_">
+			<ellipse id="Dot_45_" class="st36" cx="2135.94" cy="2415.87" rx="25" ry="25"/>
+			<ellipse id="Dot_44_" class="st36" cx="2207.78" cy="2427.68" rx="25" ry="25"/>
+			<ellipse id="Dot_43_" class="st36" cx="2285.31" cy="2432.77" rx="25" ry="25"/>
+			<ellipse id="Dot_42_" class="st36" cx="2375.1" cy="2437.87" rx="25" ry="25"/>
+		</g>
+		<g id="C_1_">
+			<ellipse id="Dot_46_" class="st37" cx="1693.15" cy="2379.64" rx="25" ry="25"/>
+			<g id="Dash_24_">
+				<ellipse class="st37" cx="1499.51" cy="2324.94" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1545.37" cy="2340.16" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1591.24" cy="2355.38" rx="25" ry="25"/>
+			</g>
+			<ellipse id="Dot_47_" class="st37" cx="2003.89" cy="2447.46" rx="25" ry="25"/>
+			<g id="Dash_25_">
+				<ellipse class="st37" cx="1803.65" cy="2406.28" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1851.03" cy="2416.1" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1898.41" cy="2425.92" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="A_1_">
+			<ellipse id="Dot_41_" class="st38" cx="1266.39" cy="2174.41" rx="25" ry="25"/>
+			<g id="Dash_23_">
+				<ellipse class="st38" cx="1453.48" cy="2247.76" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1407.75" cy="2232.17" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1362.01" cy="2216.58" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="N">
+			<ellipse id="Dot_40_" class="st35" cx="1150.76" cy="2181.42" rx="25" ry="25"/>
+			<g id="Dash_22_">
+				<ellipse class="st35" cx="965.54" cy="2103.67" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1009.12" cy="2124.33" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1052.7" cy="2144.99" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H_2_">
+			<ellipse id="Dot_37_" class="st36" cx="2470.36" cy="2131.71" rx="25" ry="25"/>
+			<ellipse id="Dot_36_" class="st36" cx="2556.72" cy="2134.78" rx="25" ry="25"/>
+			<ellipse id="Dot_35_" class="st36" cx="2647.13" cy="2135.85" rx="25" ry="25"/>
+			<ellipse id="Dot_34_" class="st36" cx="2744.59" cy="2131.96" rx="25" ry="25"/>
+		</g>
+		<g id="I_1_">
+			<ellipse id="Dot_38_" class="st37" cx="2235.03" cy="2171.22" rx="25" ry="25"/>
+			<ellipse id="Dot_39_" class="st37" cx="2325.17" cy="2181.42" rx="25" ry="25"/>
+		</g>
+		<ellipse id="E_2_" class="st38" cx="2115.28" cy="2100.82" rx="25" ry="25"/>
+		<g id="W">
+			<ellipse id="Dot_33_" class="st35" cx="1574.41" cy="2035.74" rx="25" ry="25"/>
+			<g id="Dash_20_">
+				<ellipse class="st35" cx="1670.61" cy="2060.76" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1717.84" cy="2071.26" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1765.07" cy="2081.75" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_21_">
+				<ellipse class="st35" cx="1867.05" cy="2108.39" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1914.28" cy="2118.89" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1961.51" cy="2129.39" rx="25" ry="25"/>
+			</g>
+		</g>
+		<ellipse id="E_1_" class="st36" cx="1458.7" cy="1937.09" rx="25" ry="25"/>
+		<g id="H_1_">
+			<ellipse id="Dot_29_" class="st37" cx="1085.5" cy="1822.33" rx="25" ry="25"/>
+			<ellipse id="Dot_30_" class="st37" cx="1161.18" cy="1863.1" rx="25" ry="25"/>
+			<ellipse id="Dot_31_" class="st37" cx="1241.41" cy="1903.88" rx="25" ry="25"/>
+			<ellipse id="Dot_32_" class="st37" cx="1330.21" cy="1943.34" rx="25" ry="25"/>
+		</g>
+		<g id="O">
+			<g id="Dash_17_">
+				<ellipse class="st38" cx="2097.79" cy="1783.69" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2146.23" cy="1783.69" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2194.66" cy="1783.69" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_18_">
+				<ellipse class="st38" cx="2280.97" cy="1776.13" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2329.21" cy="1771.85" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2377.45" cy="1767.56" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_19_">
+				<ellipse class="st38" cx="2459.15" cy="1754.46" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2506.81" cy="1746.02" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2554.47" cy="1737.59" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="R_3_">
+			<ellipse id="Dot_27_" class="st35" cx="1687.43" cy="1795.03" rx="25" ry="25"/>
+			<ellipse id="Dot_28_" class="st35" cx="1959.21" cy="1824.66" rx="25" ry="25"/>
+			<g id="Dash_16_">
+				<ellipse class="st35" cx="1774.61" cy="1805.23" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1822.81" cy="1809.88" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1871.01" cy="1814.52" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="F">
+			<ellipse id="Dot_24_" class="st36" cx="1258.22" cy="1610.73" rx="25" ry="25"/>
+			<ellipse id="Dot_25_" class="st36" cx="1336.26" cy="1643.47" rx="25" ry="25"/>
+			<ellipse id="Dot_26_" class="st36" cx="1597.51" cy="1719.79" rx="25" ry="25"/>
+			<g id="Dash_15_">
+				<ellipse class="st36" cx="1419.93" cy="1670.84" rx="25" ry="25"/>
+				<ellipse class="st36" cx="1466.3" cy="1684.54" rx="25" ry="25"/>
+				<ellipse class="st36" cx="1512.66" cy="1698.25" rx="25" ry="25"/>
+			</g>
+		</g>
+	</g>
+	<g id="Merry_Christmas">
+		<g id="S_1_">
+			<ellipse id="Dot_23_" class="st37" cx="2459.04" cy="1634.49" rx="25" ry="25"/>
+			<ellipse id="Dot_22_" class="st37" cx="2291.53" cy="1642.92" rx="25" ry="25"/>
+			<ellipse id="Dot_21_" class="st37" cx="2370.91" cy="1642.92" rx="25" ry="25"/>
+		</g>
+		<g id="A">
+			<ellipse id="Dot_20_" class="st38" cx="2014.37" cy="1587.21" rx="25" ry="25"/>
+			<g id="Dash_14_">
+				<ellipse class="st38" cx="2109.9" cy="1592.3" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2158.34" cy="1592.3" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2206.77" cy="1592.3" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="M_1_">
+			<g id="Dash_12_">
+				<ellipse class="st35" cx="1619.54" cy="1584.24" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1667.24" cy="1592.47" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1714.94" cy="1600.69" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_13_">
+				<ellipse class="st35" cx="1807.7" cy="1617.44" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1855.89" cy="1622.23" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1904.08" cy="1627.02" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="T">
+			<ellipse class="st36" cx="1386.42" cy="1478.94" rx="25" ry="25"/>
+			<ellipse class="st36" cx="1433.44" cy="1490.31" rx="25" ry="25"/>
+			<ellipse class="st36" cx="1480.46" cy="1501.69" rx="25" ry="25"/>
+		</g>
+		<g id="S">
+			<ellipse id="Dot_15_" class="st37" cx="2274.71" cy="1511.85" rx="25" ry="25"/>
+			<ellipse id="Dot_14_" class="st37" cx="2087.62" cy="1524.12" rx="25" ry="25"/>
+			<ellipse id="Dot_13_" class="st37" cx="2175.82" cy="1523.57" rx="25" ry="25"/>
+		</g>
+		<g id="I">
+			<ellipse id="Dot_11_" class="st38" cx="1827.89" cy="1454.03" rx="25" ry="25"/>
+			<ellipse id="Dot_12_" class="st38" cx="1925.66" cy="1468.71" rx="25" ry="25"/>
+		</g>
+		<g id="R_2_">
+			<ellipse id="Dot_10_" class="st35" cx="1403.24" cy="1356.42" rx="25" ry="25"/>
+			<ellipse id="Dot_8_" class="st35" cx="1659.62" cy="1468.17" rx="25" ry="25"/>
+			<g id="Dash_11_">
+				<ellipse class="st35" cx="1488.23" cy="1396.5" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1532.58" cy="1415.53" rx="25" ry="25"/>
+				<ellipse class="st35" cx="1576.93" cy="1434.57" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="H">
+			<ellipse id="Dot_17_" class="st36" cx="2155.6" cy="1344.59" rx="25" ry="25"/>
+			<ellipse id="Dot_18_" class="st36" cx="2247.09" cy="1344.59" rx="25" ry="25"/>
+			<ellipse id="Dot_19_" class="st36" cx="2338.58" cy="1339.5" rx="25" ry="25"/>
+			<ellipse id="Dot_16_" class="st36" cx="2059.34" cy="1339.5" rx="25" ry="25"/>
+		</g>
+		<g id="C">
+			<ellipse id="Dot_1_" class="st37" cx="1631.88" cy="1291.19" rx="25" ry="25"/>
+			<g id="Dash_8_">
+				<ellipse class="st37" cx="1465.46" cy="1216.19" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1508.82" cy="1237.3" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1552.17" cy="1258.4" rx="25" ry="25"/>
+			</g>
+			<ellipse id="Dot_7_" class="st37" cx="1631.88" cy="1291.19" rx="25" ry="25"/>
+			<g id="Dash_9_">
+				<ellipse class="st37" cx="1465.46" cy="1216.19" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1508.82" cy="1237.3" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1552.17" cy="1258.4" rx="25" ry="25"/>
+			</g>
+			<ellipse id="Dot_9_" class="st37" cx="1892.29" cy="1369.51" rx="25" ry="25"/>
+			<g id="Dash_10_">
+				<ellipse class="st37" cx="1705.27" cy="1321.29" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1751.74" cy="1334.63" rx="25" ry="25"/>
+				<ellipse class="st37" cx="1798.22" cy="1347.97" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="Y">
+			<ellipse id="Dot_6_" class="st38" cx="1786.38" cy="1145.39" rx="25" ry="25"/>
+			<g id="Dash_7_">
+				<ellipse class="st38" cx="2058.38" cy="1157.12" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2106.34" cy="1150.48" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2154.3" cy="1143.85" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_6_">
+				<ellipse class="st38" cx="1873.1" cy="1155.58" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1921.42" cy="1158.83" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1969.74" cy="1162.08" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_5_">
+				<ellipse class="st38" cx="1608.59" cy="1085.27" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1653.73" cy="1102.42" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1698.88" cy="1119.57" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="R">
+			<ellipse id="Dot_5_" class="st35" cx="1931.33" cy="1026.64" rx="25" ry="25"/>
+			<ellipse id="Dot_4_" class="st35" cx="2163.92" cy="1058.63" rx="25" ry="25"/>
+			<g id="Dash_4_">
+				<ellipse class="st35" cx="1999.57" cy="1038.61" rx="25" ry="25"/>
+				<ellipse class="st35" cx="2047.52" cy="1045.35" rx="25" ry="25"/>
+				<ellipse class="st35" cx="2095.46" cy="1052.09" rx="25" ry="25"/>
+			</g>
+		</g>
+		<g id="R_1_">
+			<ellipse id="Dot_2_" class="st36" cx="1663.49" cy="873.93" rx="25" ry="25"/>
+			<ellipse id="Dot_3_" class="st36" cx="1882.8" cy="956.16" rx="25" ry="25"/>
+			<g id="Dash_3_">
+				<ellipse class="st36" cx="1727.25" cy="900.57" rx="25" ry="25"/>
+				<ellipse class="st36" cx="1772.42" cy="917.67" rx="25" ry="25"/>
+				<ellipse class="st36" cx="1817.59" cy="934.76" rx="25" ry="25"/>
+			</g>
+		</g>
+		<ellipse id="E" class="st37" cx="1567.68" cy="863.74" rx="25" ry="25"/>
+		<g id="M">
+			<g id="Dash_1_">
+				<ellipse class="st38" cx="1769.51" cy="754.06" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1815.81" cy="767.96" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1862.11" cy="781.86" rx="25" ry="25"/>
+			</g>
+			<g id="Dash_2_">
+				<ellipse class="st38" cx="1934.54" cy="797.8" rx="25" ry="25"/>
+				<ellipse class="st38" cx="1982.65" cy="803.36" rx="25" ry="25"/>
+				<ellipse class="st38" cx="2030.75" cy="808.92" rx="25" ry="25"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
